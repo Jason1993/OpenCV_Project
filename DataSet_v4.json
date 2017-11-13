@@ -1,0 +1,753 @@
+{"DataSet": 
+	[
+		{
+			"camId" : "CAM00",
+			"deviceType":"kinect2_simulated",
+			"data" : {
+				"depth" : {
+				"sampleRange" : [1, 10],
+				"globalPosition" : [1622.489, 6720.560, 1346.200],
+				"globalRotation" : [80.83, 0, -90]
+				},
+				"color" : {
+				"sampleRange" : [1, 10],
+				"globalPosition" : [1622.489, 6725.424, 1346.200],
+				"globalRotation" : [80.83, 0, -90]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM01",
+			"deviceType":"kinect2_simulated",
+			"data" : {
+				"depth" : {
+					"sampleRange" : [11,20],
+					"globalPosition" : [4438.232,6720.56,1346.2],
+					"globalRotation" : [80.827,0,90]
+				},
+				"color" : {
+					"sampleRange" : [11,20],
+					"globalPosition" : [4438.232,6715.695,1346.2],
+					"globalRotation" : [80.827,0,90]
+				}
+			}
+				
+		}
+		,
+		{
+			"camId" : "CAM02",
+			"deviceType":"kinect2_simulated",
+			"data" : {
+				"depth" : {
+					"sampleRange" : [21,30],
+					"globalPosition" : [3013.107,8517.223,1346.2],
+					"globalRotation" : [82.018,0,179.818]
+				},
+				"color" : {
+					"sampleRange" : [21,30],
+					"globalPosition" : [3017.972,8517.207,1346.2],
+					"globalRotation" : [82.018,0,179.818]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM03",
+			"deviceType":"kinect2_simulated",
+			"data" : {
+				"depth" : {
+					"sampleRange" : [31,40],
+					"globalPosition" : [3013.107,4982.661,1346.2],
+					"globalRotation" : [80.727,0,0.188]
+				},
+				"color" : {
+					"sampleRange" : [31,40],
+					"globalPosition" : [3008.242,4982.645,1346.2],
+					"globalRotation" : [80.727,0,0.188]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM04",
+			"deviceType":"kinect2_simulated",
+			"data" : {			
+				"depth" : {
+					"sampleRange" : [41,50],
+					"globalPosition" : [4444.661,4982.661,2608.459],
+					"globalRotation" : [54.877,0,39.591]
+				},
+				"color" : {
+					"sampleRange" : [41,50],
+					"globalPosition" : [4440.912,4979.561,2608.459],
+					"globalRotation" : [54.877,0,39.591]
+				}
+			}			
+		}
+		,
+		{
+			"camId" : "CAM05",
+			"deviceType":"kinect2_simulated",
+			"data" : {
+				"depth" : {
+					"sampleRange" : [51,60],
+					"globalPosition" : [4450.451,8501.053,2608.459],
+					"globalRotation" : [54.533,0,140.976]
+				},
+				"color" : {
+					"sampleRange" : [51,60],
+					"globalPosition" : [4454.230,8497.99,2608.459],
+					"globalRotation" : [54.533,0,140.976]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM06",
+			"deviceType":"kinect2_simulated",
+			"data" : {
+				"depth" : {	
+					"sampleRange" : [61,70],
+					"globalPosition" : [1632.933,8502.098,2608.459],
+					"globalRotation" : [53.208,0,-142.35]
+				},
+				"color" : {	
+					"sampleRange" : [61,70],
+					"globalPosition" : [1636.784,8505.07,2608.459],
+					"globalRotation" : [53.208,0,-142.35]
+				}
+			}
+		}			
+		,
+		{
+			"camId" : "CAM07",
+			"deviceType":"kinect2_simulated",
+			"data" : {
+				"depth" : {	
+					"sampleRange" : [71,80],
+					"globalPosition" : [1632.933,5015.258,2608.459],
+					"globalRotation" : [51.631,0,-38.869]
+				},
+				"color" : {	
+					"sampleRange" : [71,80],
+					"globalPosition" : [1629.145,5018.31,2608.459],
+					"globalRotation" : [51.631,0,-38.869]
+					}
+			}
+		}			
+		,
+		{
+			"camId" : "CAM08",
+			"deviceType":"kinect2_simulated",
+			"data" : {
+				"depth" : {	
+					"sampleRange" : [81,90],
+					"globalPosition" : [3671.96,6012.752,2936.408],
+					"globalRotation" : [24.688,0,43.195]
+				},
+				"color" : {	
+					"sampleRange" : [81,90],
+					"globalPosition" : [3668.413,6009.422,2936.408],
+					"globalRotation" : [24.688,0,43.195]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM09",
+			"deviceType":"kinect2_simulated",
+			"data" : {
+				"depth" : {
+					"sampleRange" : [91,100],
+					"globalPosition" : [3671.96,7770.327,2936.408],
+					"globalRotation" : [29.925,0,147.664]
+				},
+				"color" : {
+					"sampleRange" : [91,100],
+					"globalPosition" : [3676.07,7767.725,2936.408],
+					"globalRotation" : [29.925,0,147.664]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM10",
+			"deviceType":"kinect2_simulated",
+			"data" : {
+				"depth" : {
+					"sampleRange" : [101,110],
+					"globalPosition" : [2209.84,7770.327,2936.408],
+					"globalRotation" : [30.946,0,-142.774]
+				},
+				"color" : {
+					"sampleRange" : [101,110],
+					"globalPosition" : [2213.713,7773.27,2936.408],
+					"globalRotation" : [30.946,0,-142.774]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM11",
+			"deviceType":"kinect2_simulated",
+			"data" : {
+				"depth" : {
+					"sampleRange" : [111,120],
+					"globalPosition" : [2209.84,6005.892,2936.408],
+					"globalRotation" : [25.645,0,-48.137]
+				},
+				"color" : {
+					"sampleRange" : [111,120],
+					"globalPosition" : [2206.593,6009.515,2936.408],
+					"globalRotation" : [25.645,0,-48.137]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM12",
+			"deviceType":"kinect2_simulated",
+			"data" : {
+				"depth" : {
+					"sampleRange" : [121,130],
+					"globalPosition" : [2995.563,6720.628,3058.152],
+					"globalRotation" : [0.286,0,-90.33]
+				},
+				"color" : {
+					"sampleRange" : [121,130],
+					"globalPosition" : [2995.591,6725.498,3058.152],
+					"globalRotation" : [0.286,-0.001,-90.33]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM13",
+			"deviceType":"kinect2_simulated",
+			"data" : {
+				"depth" : {
+					"sampleRange" : [131,140],
+					"globalPosition" : [1641.056,8540.65,50.448],
+					"globalRotation" : [-74.598,180,36.896]
+				},
+				"color" : {
+					"sampleRange" : [131,140],
+					"globalPosition" : [1644.947,8543.571,50.448],
+					"globalRotation" : [-74.598,180,36.896]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM14",
+			"deviceType":"kinect2_simulated",
+			"data" : {
+				"depth" : {
+					"sampleRange" : [141,150],
+					"globalPosition" : [1641.056,5034.803,50.448],
+					"globalRotation" : [106.115,0,-39.025]
+					},
+				"color" : {
+					"sampleRange" : [141,150],
+					"globalPosition" : [1637.27,5037.866,50.448],
+					"globalRotation" : [106.115,0,-39.025]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM15",
+			"deviceType":"kinect2_simulated",
+			"data" : {
+				"depth" : {
+					"sampleRange" : [151,160],
+					"globalPosition" : [4405.512,5034.803,50.448],
+					"globalRotation" : [105.975,0,39.671]
+				},
+				"color" : {
+					"sampleRange" : [151,160],
+					"globalPosition" : [4401.767,5031.697,50.448],
+					"globalRotation" : [105.975,0,39.671]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM16",
+			"deviceType":"kinect2_simulated",
+			"data" : {
+				"depth" : {
+					"sampleRange" : [161,170],
+					"globalPosition" : [4405.512,8513.861,50.448],
+					"globalRotation" : [-74.586,180,-37.941]
+				},
+				"color" : {
+					"sampleRange" : [161,170],
+					"globalPosition" : [4409.348,8510.870,50.448],
+					"globalRotation" : [-74.586,180,-37.941]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM17",
+			"deviceType":"kinect2_simulated",
+			"data" : {
+				"depth" : {
+					"sampleRange" : [171,180],
+					"globalPosition" : [1638.393,8467.193,69.022],
+					"globalRotation" : [-74.669,180,38.089]
+				},
+				"color" : {
+					"sampleRange" : [171,180],
+					"globalPosition" : [1642.222,8470.222,69.022],
+					"globalRotation" : [-74.669,180,38.089]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM18",
+			"deviceType":"kinect2_simulated",
+			"data" : {
+				"depth" : {
+					"sampleRange" : [181,190],
+					"globalPosition" : [1638.393,8024.559,288.122],
+					"globalRotation" : [-78.366,-180,46.393]
+				},
+				"color" : {
+					"sampleRange" : [181,190],
+					"globalPosition" : [1641.749,8028.081,288.122],
+					"globalRotation" : [-78.366,-180,46.393]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM19",
+			"deviceType":"kinect2_simulated",
+			"data" : {
+				"depth" : {
+					"sampleRange" : [191,200],
+					"globalPosition" : [1638.393,5518.543,288.122],
+					"globalRotation" : [102.061,0,-48.716]
+				},
+				"color" : {
+					"sampleRange" : [191,200],
+					"globalPosition" : [1635.184,5522.198,288.122],
+					"globalRotation" : [102.061,0,-48.716]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM20",
+			"deviceType":"kinect2_simulated",
+			"data" : {
+				"depth" : {
+					"sampleRange" : [201,210],
+					"globalPosition" : [4457.578,5518.543,288.122],
+					"globalRotation" : [101.667,0,50.346]
+				},
+				"color" : {
+					"sampleRange" : [201,210],
+					"globalPosition" : [4454.473,5514.797,288.122],
+					"globalRotation" : [101.667,0,50.346]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM21",
+			"deviceType":"kinect2_simulated",
+			"data" : {
+				"depth" : {
+					"sampleRange" : [211,220],
+					"globalPosition" : [4457.578,8038.883,288.122],
+					"globalRotation" : [-78.766,180,-47.722]
+				},
+				"color" : {
+					"sampleRange" : [211,220],
+					"globalPosition" : [4460.85,8035.283,288.122],
+					"globalRotation" : [-78.766,180,-47.722]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM22",
+			"deviceType":"stereo_simulated",
+			"data" : {
+				"left" : {
+					"sampleRange" : [1,10],
+					"globalPosition" : [1622.489, 6775.524, 1370.969],
+					"globalRotation" : [79.834, 0, -90]
+					},
+					"right" : {
+					"sampleRange" : [1,10],
+					"globalPosition" : [1622.488, 6663.763, 1370.969],
+					"globalRotation" : [79.834, 0, -90]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM23",
+			"deviceType":"stereo_simulated",
+			"data" : {
+				"left" : {
+					"sampleRange" : [11,20],
+					"globalPosition" : [4438.23,6665.595,1370.969],
+					"globalRotation" : [79.831,0,90]
+				},
+				"right" : {
+					"sampleRange" : [11,20],
+					"globalPosition" : [4438.231,6777.356,1370.969],
+					"globalRotation" : [79.831,0,90]
+				}
+			}
+				
+		}
+		,
+		{
+			"camId" : "CAM24",
+			"deviceType":"stereo_simulated",
+			"data" : {
+				"left" : {
+					"sampleRange" : [21,30],
+					"globalPosition" : [3068.073,8517.561,1370.963],
+					"globalRotation" : [81.022,0,179.818]
+				},
+				"right" : {
+					"sampleRange" : [21,30],
+					"globalPosition" : [2956.313,8517.918,1370.963],
+					"globalRotation" : [81.022,0,179.818]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM25",
+			"deviceType":"stereo_simulated",
+			"data" : {
+				"left" : {
+					"sampleRange" : [31,40],
+					"globalPosition" : [2958.143,4982.526,1370.968],
+					"globalRotation" : [79.731,0,0.188]
+				},
+				"right" : {
+					"sampleRange" : [31,40],
+					"globalPosition" : [3069.903,4982.892,1370.969],
+					"globalRotation" : [79.731,0,0.188]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM26",
+			"deviceType":"stereo_simulated",
+			"data" : {			
+				"left" : {
+					"sampleRange" : [41,50],
+					"globalPosition" : [4395.396,4955.986,2630.73],
+					"globalRotation" : [53.881,0,39.591]
+				},
+				"right" : {
+					"sampleRange" : [41,50],
+					"globalPosition" : [4481.521,5027.211,2630.73],
+					"globalRotation" : [53.881,0,39.591]
+				}
+			}			
+		}
+		,
+		{
+			"camId" : "CAM27",
+			"deviceType":"stereo_simulated",
+			"data" : {
+				"left" : {
+					"sampleRange" : [51,60],
+					"globalPosition" : [4486.242, 8457.92,2630.664],
+					"globalRotation" : [53.538,0,140.976]
+				},
+				"right" : {
+					"sampleRange" : [51,60],
+					"globalPosition" : [4399.418,8528.291,2630.665],
+					"globalRotation" : [53.538,0,140.976]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM28",
+			"deviceType":"stereo_simulated",
+			"data" : {
+				"left" : {	
+					"sampleRange" : [61,70],
+					"globalPosition" : [1683.466,8526.58,2630.405],
+					"globalRotation" : [52.212,0,-142.35]
+				},
+				"right" : {	
+					"sampleRange" : [61,70],
+					"globalPosition" : [1594.978, 8458.313,2630.405],
+					"globalRotation" : [52.212,0,-142.35]
+				}
+			}
+		}			
+		,
+		{
+			"camId" : "CAM29",
+			"deviceType":"stereo_simulated",
+			"data" : {
+				"left" : {	
+					"sampleRange" : [71,80],
+					"globalPosition" : [1597.721, 5059.159,2630.08],
+					"globalRotation" : [50.635,0,-38.869]
+				},
+				"right" : {	
+					"sampleRange" : [71,80],
+					"globalPosition" : [1684.736,4989.024,2630.081],
+					"globalRotation" : [50.635,0,-38.869]
+					}
+			}
+		}			
+		,
+		{
+			"camId" : "CAM30",
+			"deviceType":"stereo_simulated",
+			"data" : {
+				"left" : {	
+					"sampleRange" : [81,90],
+					"globalPosition" : [3617.81,5990.125,2950.206],
+					"globalRotation" : [23.692,0,43.195]
+				},
+				"right" : {	
+					"sampleRange" : [81,90],
+					"globalPosition" : [3699.287,6066.623,2950.208],
+					"globalRotation" : [23.692,0,43.195]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM31",
+			"deviceType":"stereo_simulated",
+			"data" : {
+				"left" : {
+					"sampleRange" : [91,100],
+					"globalPosition" : [2708.118,7724.686,2952.026],
+					"globalRotation" : [28.929,0,147.664]
+				},
+				"right" : {
+					"sampleRange" : [91,100],
+					"globalPosition" : [3613.689,7784.465,2952.028],
+					"globalRotation" : [28.929,0,147.664]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM32",
+			"deviceType":"stereo_simulated",
+			"data" : {
+				"left" : {
+					"sampleRange" : [101,110],
+					"globalPosition" : [2265.064,7788.495,2952.366],
+					"globalRotation" : [29.95,0,-142.774]
+				},
+				"right" : {
+					"sampleRange" : [101,110],
+					"globalPosition" : [2176.073,7720.886,2952.368],
+					"globalRotation" : [29.95,0,-142.774]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM33",
+			"deviceType":"stereo_simulated",
+			"data" : {
+				"left" : {
+					"sampleRange" : [111,120],
+					"globalPosition" : [2188.304,6060.398,2950.548],
+					"globalRotation" : [24.649,0,-48.137]
+				},
+				"right" : {
+					"sampleRange" : [111,120],
+					"globalPosition" : [2262.886,5977.163,2950.55],
+					"globalRotation" : [24.649,0,-48.137]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM34",
+			"deviceType":"stereo_simulated",
+			"data" : {
+				"left" : {
+					"sampleRange" : [121,130],
+					"globalPosition" : [3020.312,6775.45,3062.22],
+					"globalRotation" : [-0.71,0,-90.33]
+				},
+				"right" : {
+					"sampleRange" : [121,130],
+					"globalPosition" : [3019.667,6663.691,3062.222],
+					"globalRotation" : [-0.71,-0.001,-90.33]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM35",
+			"deviceType":"stereo_simulated",
+			"data" : {
+				"left" : {
+					"sampleRange" : [131,140],
+					"globalPosition" : [1678.83,8581.885,72.974],
+					"globalRotation" : [-75.594,180,36.896]
+				},
+				"right" : {
+					"sampleRange" : [131,140],
+					"globalPosition" : [1589.45,8514.79,72.973],
+					"globalRotation" : [-75.594,180,36.896]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM36",
+			"deviceType":"stereo_simulated",
+			"data" : {
+				"left" : {
+					"sampleRange" : [141,150],
+					"globalPosition" : [1591.696,5061.193,72.844],
+					"globalRotation" : [105.12,0,-39.025]
+					},
+				"right" : {
+					"sampleRange" : [141,150],
+					"globalPosition" : [1678.518,4990.821,72.843],
+					"globalRotation" : [105.12,0,-39.025]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM37",
+			"deviceType":"stereo_simulated",
+			"data" : {
+				"left" : {
+					"sampleRange" : [151,160],
+					"globalPosition" : [4369.923,4991.614,72.87],
+					"globalRotation" : [104.979,0,39.671]
+				},
+				"right" : {
+					"sampleRange" : [151,160],
+					"globalPosition" : [4455.948,5062.959,72.869],
+					"globalRotation" : [104.979,0,39.671]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM38",
+			"deviceType":"stereo_simulated",
+			"data" : {
+				"left" : {
+					"sampleRange" : [161,170],
+					"globalPosition" : [4455.194,8488.192,72.972],
+					"globalRotation" : [-75.581,-180,-37.941]
+				},
+				"right" : {
+					"sampleRange" : [161,170],
+					"globalPosition" : [4367.056,8556.909,72.971],
+					"globalRotation" : [-75.581,-180,-37.941]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM39",
+			"deviceType":"stereo_simulated",
+			"data" : {
+				"left" : {
+					"sampleRange" : [171,180],
+					"globalPosition" : [1675.317,8509.184,91.56],
+					"globalRotation" : [-75.665,-180,38.089]
+				},
+				"right" : {
+					"sampleRange" : [171,180],
+					"globalPosition" : [1587.355,8440.241,91.56],
+					"globalRotation" : [-75.665,-180,38.089]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM40",
+			"deviceType":"stereo_simulated",
+			"data" : {
+				"left" : {
+					"sampleRange" : [181,190],
+					"globalPosition" : [1669.933,8070.425,311.275],
+					"globalRotation" : [-79.361,-180,46.393]
+				},
+				"right" : {
+					"sampleRange" : [181,190],
+					"globalPosition" : [1592.85,7989.501,311.275],
+					"globalRotation" : [-79.361,-180,46.393]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM41",
+			"deviceType":"stereo_simulated",
+			"data" : {
+				"left" : {
+					"sampleRange" : [191,200],
+					"globalPosition" : [1595.389,5553.928,311.209],
+					"globalRotation" : [101.066,0,-48.716]
+				},
+				"right" : {
+					"sampleRange" : [191,200],
+					"globalPosition" : [1669.126,5469.944,311.209],
+					"globalRotation" : [101.066,0,-48.716]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM42",
+			"deviceType":"stereo_simulated",
+			"data" : {
+				"left" : {
+					"sampleRange" : [201,210],
+					"globalPosition" : [4429.288,5470.601,311.269],
+					"globalRotation" : [100.681,0,50.346]
+				},
+				"right" : {
+					"sampleRange" : [201,210],
+					"globalPosition" : [4500.609,5556.645,311.268],
+					"globalRotation" : [100.681,0,50.346]
+				}
+			}
+		}
+		,
+		{
+			"camId" : "CAM43",
+			"deviceType":"stereo_simulated",
+			"data" : {
+				"left" : {
+					"sampleRange" : [211,220],
+					"globalPosition" : [4500.939,8004.021,311.336],
+					"globalRotation" : [-79.761,180,-47.722]
+				},
+				"right" : {
+					"sampleRange" : [211,220],
+					"globalPosition" : [4425.763,8086.719,311.336],
+					"globalRotation" : [-79.761,180,-47.722]
+				}
+			}
+		}
+	]		
+}
